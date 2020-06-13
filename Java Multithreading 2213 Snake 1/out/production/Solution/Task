@@ -1,0 +1,15 @@
+/*
+
+Snake 1
+
+Now let's write a snake game.
+For this we need:
+Actually the snake itself (snake class)
+The room in which it will crawl (class Room)
+Misha, who will she be (class Mouse)
+
+Create a classy Snake, Room, Mouse
+Remember to create the public static void main (String [] args) method in the Room class.
+
+
+ */
